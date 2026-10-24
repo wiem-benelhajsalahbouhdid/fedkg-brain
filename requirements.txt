@@ -1,0 +1,7 @@
+gradio==6.30.0
+torch>=2.1
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+plotly>=5.20
+nilearn>=0.10        # 3-D brain view (region coordinates from the cc200 atlas)

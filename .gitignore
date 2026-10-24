@@ -1,0 +1,22 @@
+# data and generated files never go to GitHub (ABIDE data use agreement + size)
+fedkg_brain/
+data/
+results_real/
+results_*/
+*.1D
+*.nii
+*.nii.gz
+*.npz
+*.pt
+*.mp4
+*.webm
+preview/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.gradio/
+flagged/
